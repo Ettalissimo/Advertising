@@ -2,7 +2,7 @@
 
 
 
-## Rapport Travaux pratiques Data Driven Decision Making
+## NoteBook Travaux pratiques Data Driven Decision Making
 
 Deuxième année filière Génie Logiciel
 
